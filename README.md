@@ -1,4 +1,4 @@
-## Incremental-Data-Loading-Pipeline-with-Azure-Databricks-and-Delta-Live-Tables
+## Incremental Data Loading Pipeline with Azure Databricks and Delta Live Tables
 
 ### Architecture
 
