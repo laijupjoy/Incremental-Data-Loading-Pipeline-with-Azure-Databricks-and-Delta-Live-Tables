@@ -3,7 +3,8 @@
 ### Introduction
 
 Here, implement incremental or delta load and full load ETL data pipeline by using ADF. This ETL pipeline driven by metadata tables stored on delta lake, and implemented logging, email notification via logic app after every pipeline run.
-Create Pyspark and Spark SQL code in Databricks notebook and execute through ETL pipeline.
+
+Delta Live Tables pipelines are used to define data transformations, while Delta Live Tables ensures the quality and integrity of the data throughout the process. Create Pyspark and Spark SQL code in Databricks notebook and execute through ETL pipeline. The final result is curated data on Gold layer, it will use for reporting purpose.
 
 Data governance is effectively implemented using Unity Catalog, which also manages permissions to ensure secure and organized data access.
 User/Group Names are grant permissions to.
