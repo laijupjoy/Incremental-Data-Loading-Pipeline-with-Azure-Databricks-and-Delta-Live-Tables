@@ -1,5 +1,18 @@
 ## Incremental Data Loading Pipeline with Azure Databricks and Delta Live Tables
 
+### Introduction
+
+Here, implement incremental or delta load and full load ETL data pipeline by using ADF. This ETL pipeline driven by metadata tables stored on delta lake, and implemented logging, email notification via logic app after every pipeline run.
+Create Pyspark and Spark SQL code in Databricks notebook and execute through ETL pipeline.
+
+Data governance is effectively implemented using Unity Catalog, which also manages permissions to ensure secure and organized data access.
+User/Group Names are grant permissions to.
+       
+       Data Engineering Team - all privilege
+       Testing team - all read
+       Reporting Team - curated table read only
+
+
 ### Architecture
 
 <img width="600" alt="architecture" src="https://github.com/laijupjoy/Incremental-Data-Loading-Pipeline-in-Azure-Databricks-with-Delta-Live-Tables/assets/87544051/56a9cb20-6113-4e1e-80ae-d8a8a02bfbd2">
