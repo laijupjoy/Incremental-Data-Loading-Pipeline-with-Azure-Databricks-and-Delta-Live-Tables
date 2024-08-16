@@ -20,3 +20,15 @@ User/Group Names are grant permissions to.
 ### ADF Copy Activity Pipeline
 
 ![adf_copy_activity](https://github.com/laijupjoy/Incremental-Data-Loading-Pipeline-in-Azure-Databricks-with-Delta-Live-Tables/assets/87544051/a09a22ba-a8b5-487c-ace2-80ca3b5882c0)
+
+
+### Technology Used
+~~~
+1.ADLS Gen2
+2.Azure Data Factory
+3.Azure Databricks
+4.Delta Live Tables
+5.Azure Logic Apps
+6.Azure Key Vault
+7.Azure DevOps
+~~~
