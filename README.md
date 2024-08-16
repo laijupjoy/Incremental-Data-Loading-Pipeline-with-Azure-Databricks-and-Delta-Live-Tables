@@ -22,6 +22,8 @@ User/Group Names are grant permissions to.
 ![adf_copy_activity](https://github.com/laijupjoy/Incremental-Data-Loading-Pipeline-in-Azure-Databricks-with-Delta-Live-Tables/assets/87544051/a09a22ba-a8b5-487c-ace2-80ca3b5882c0)
 
 
+![data lineage](https://github.com/user-attachments/assets/624681e1-1830-4603-ab6f-49dc4d433527)
+
 ### Technology Used
 ~~~
 1.ADLS Gen2
